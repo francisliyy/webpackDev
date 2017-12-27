@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-12-27 10:45:07
+ * @version $Id$
+ */
+
+ .hello {
+  color: red;
+  background: url('./santa-claus.png');
+}
